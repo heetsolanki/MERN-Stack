@@ -1,0 +1,11 @@
+function Books(props){
+    return (
+            <tr>
+                <td>{props.title}</td>
+                <td>{props.author}</td>
+                <td>{props.price}</td>
+            </tr>
+    )
+
+}
+export default Books;
