@@ -1,0 +1,11 @@
+span {
+  border-radius: 1.5em;
+  padding: 15px;
+  text-align: center;
+  background-color: bisque;
+  display: inline-block;
+  border: 1px solid black;
+  margin-left: 75px;
+  margin-top: 125px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
